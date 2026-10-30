@@ -1,0 +1,2 @@
+scikit-learn==1.9.1
+datasets==3.6.0 # En versiones posteriores no funciona
